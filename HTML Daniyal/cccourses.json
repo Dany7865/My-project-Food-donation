@@ -1,0 +1,33 @@
+[
+    {
+      "program": "B.Tech",
+      "courses": [
+        {
+          "name": "Computer Science",
+          "subjects": [
+            { "name": "Data Structures", "url": "/btech/cs/data-structures" },
+            { "name": "Algorithms", "url": "/btech/cs/algorithms" }
+        
+          ]
+        },
+        {
+          "name": "Mechanical Engineering",
+          "subjects": [
+            { "name": "Thermodynamics", "url": "/btech/me/thermodynamics" }
+
+          ]
+        }
+      ]
+    },
+    {
+      "program": "BBA",
+      "courses": [
+        {
+          "name": "General Management",
+          "subjects": [
+            { "name": "Marketing", "url": "/bba/gm/marketing" }
+          ]
+        }
+      ]
+    }
+  ]
